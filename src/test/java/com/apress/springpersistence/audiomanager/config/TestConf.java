@@ -2,7 +2,6 @@ package com.apress.springpersistence.audiomanager.config;
 
 import com.apress.springpersistence.audiomanager.core.config.AudioManagerCoreConfig;
 import com.apress.springpersistence.audiomanager.core.config.JpaConfig;
-import com.sun.tools.javac.sym.Profiles;
 import org.junit.runner.RunWith;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.test.SpringApplicationConfiguration;
